@@ -1,0 +1,30 @@
+.container{
+    margin: auto;
+    margin-top: 80px;
+    width: 400px;
+    height: 400px;
+    box-shadow: 1px 3px 3px 2px gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+input{
+    width: 280px;
+    height: 40px;
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(129, 241, 112);
+    border: none;
+}
+
+h1, h2 {
+    color: green;
+}
+
+Label{
+    margin-right: 200px;
+}
